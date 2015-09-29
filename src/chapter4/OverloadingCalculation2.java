@@ -13,5 +13,5 @@ public class OverloadingCalculation2 {
     public static void main(String args[]) {
         OverloadingCalculation2 obj = new OverloadingCalculation2();
         obj.sum(20, 20); // now int arg sum() method gets invoked
-    }
+    } 
 }
